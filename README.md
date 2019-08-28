@@ -10,7 +10,7 @@ The fixed exercises are pretty firm in their scope and tasks. They're almost lik
 
 The freeform exercises are much more flexible. You can choose which topics you'd like to work on and pick from a variety of frameworks to learn and features to implement. To learn more about the exercises, see [this page](exercises).
 
-This course is very new, so you'll probably encounter some rough edges and run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
+This course is very new, so you'll probably encounter some rough edges and run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](#support-or-contact). I'm always happy to help.
 
 ### [Lectures & Topics](lectures)
 
