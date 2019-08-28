@@ -32,9 +32,10 @@ These exercises are relatively fixed in their scope and tasks. They're almost li
 
 Since this course is very new, you'll probably run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
 
-- [Swift Exercise](swift-exercise) (Deadline TBA)
-- [Login Exercise](login-exercise) (Deadline TBA)
-- [REST Exercise](rest-exercise) (Deadline TBA)
+- [Swift Exercise](swift-exercise) (Deadline Wednesday, 11 September 2019, 23:55. [Code review](#code-review) session during lecture on Friday, 13 September 2019)
+- [Login Exercise](login-exercise) (Deadline Wednesday, 25 September 2019, 23:55, [Code review](#code-review) during lecture on Friday, 27 September 2019)
+- [REST Exercise](rest-exercise) (Deadline Thursday, 10 October 2019, 23:55, [Code review](#code-review) session during lecture on Monday, 14 October 2019)
+- More fixed exercises will be announced throughout the semester
 
 ## [Freeform Exercises](freeform)
 
@@ -44,7 +45,7 @@ You can find all the details on the freeform exercises [here](freeform).
 
 - All exercises must be submitted before the deadline [via email](../README.md/#support-or-contact) as a zipped Xcode playground or Xcode project, including all source files.
 - You may submit as many times as you like before the deadline. I will only look at your last submission.
-- During the lecture after the submission, we're going to do a short 1-on-1 session where you explain the code to me. You'll be graded according to your understanding of the code and the underlying concepts, not the code itself.
+- Make sure you understand all the concepts for the [code review session](#code-review) in the lecture after the submission deadline. You'll be graded according to your understanding of the code and the underlying concepts, not the code itself.
 
 ## General requirements
 
@@ -67,6 +68,10 @@ You can find all the details on the freeform exercises [here](freeform).
 	- Scope/Number of features. However, be careful, it's much better to have fewer features and have them work really well.
 - What you won't be graded on:
 	- Visual design. This is mainly a technical course, so visual design isn't super important. As long as UI elements are laid out properly and work on different device sizes, they don't have to look super fancy.
+	
+## Code review
+
+During the lecture after the submission, we're going to do a short 1-on-1 code review session where you explain the code to me. You'll be graded according to your understanding of the code and the underlying concepts, not the code itself.
 
 ## Help and Support
 

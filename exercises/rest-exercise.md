@@ -4,6 +4,14 @@ In this exercise we'll hook up our login screen from the previous exercise with 
 
 The main goal of this exercise is for you to learn how to query REST APIs using `URLSession`.
 
+## Deadline
+
+See the deadline on the [exercises page](../#fixed-exercises).
+
+## Submission instructions
+
+See the submission instructions on the [exercises page](../#submission-instructions).
+
 ## API Key, Username, Password
 
 In this exercise, we're going to use the REST API of the Google Firebase service. Specifically, we're going to use [this endpoint](https://firebase.google.com/docs/reference/rest/auth#section-sign-in-email-password) to sign in with an email/password combo. You shouldn't necessarily have to dig through the docs above to be able to complete this exercise. Everything you need should be in the instructions below, but the above link might still help you understand the inner workings of the API.

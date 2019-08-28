@@ -26,4 +26,4 @@ There will be multiple programming exercises for you to do during the semester. 
 
 For quick answers to questions, you can post to the course's Telegram group. I don't want to post the invite link here publicly, but you should've received it via email. I monitor the group frequently to quickly help you during the programming assignments.
 
-Any questions, comments or feedback on the course? [Send me an email](mailto:&#97;&#108;&#101;&#120;&#97;&#110;&#100;&#101;&#114;&#46;&#118;&#111;&#110;&#46;&#102;&#114;&#97;&#110;&#113;&#117;&#101;&#64;&#101;&#100;&#117;&#46;&#102;&#104;&#45;&#99;&#97;&#109;&#112;&#117;&#115;&#119;&#105;&#101;&#110;&#46;&#97;&#99;&#46;&#97;&#116;) any time, I'm always happy to help. 
+Any questions, comments or feedback on the course? [Send me an email](mailto:&#97;&#108;&#101;&#120;&#97;&#110;&#100;&#101;&#114;&#46;&#118;&#111;&#110;&#46;&#102;&#114;&#97;&#110;&#113;&#117;&#101;&#64;&#101;&#100;&#117;&#46;&#102;&#104;&#45;&#99;&#97;&#109;&#112;&#117;&#115;&#119;&#105;&#101;&#110;&#46;&#97;&#99;&#46;&#97;&#116;) any time. If you prefer, you can also send me a message in German. I'm always happy to help.

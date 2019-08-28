@@ -6,6 +6,14 @@ In this exercise we'll create a simple login screen:
 
 The main goal of this exercise is for you to get familiar with Auto Layout.
 
+## Deadline
+
+See the deadline on the [exercises page](../#fixed-exercises).
+
+## Submission instructions
+
+See the submission instructions on the [exercises page](../#submission-instructions).
+
 ## Instructions, Requirements and Hints
 
 ### Setting up the project
