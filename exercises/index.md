@@ -43,7 +43,9 @@ You can find all the details on the freeform exercises [here](freeform).
 
 ## Submission instructions
 
-- All exercises must be submitted before the deadline [via email](../README.md/#support-or-contact) as a zipped Xcode playground or Xcode project, including all source files.
+- All exercises must be submitted before the deadline [via email](../README.md/#support-or-contact). There's two ways to submit:
+	- Send me a zipped Xcode playground or Xcode project, including all source files
+	- Create a private git repository and give me access (do not make your code public). I will only look at commits done to the repo before the deadline.
 - You may submit as many times as you like before the deadline. I will only look at your last submission.
 - Make sure you understand all the concepts for the [code review session](#code-review) in the lecture after the submission deadline. You'll be graded according to your understanding of the code and the underlying concepts, not the code itself.
 
