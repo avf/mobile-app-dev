@@ -33,7 +33,7 @@ These exercises are relatively fixed in their scope and tasks. They're almost li
 Since this course is very new, you'll probably run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
 
 - [Swift Exercise](swift-exercise) (Deadline Wednesday, 11 September 2019, 23:55. [Code review](#code-review) session during lecture on Friday, 13 September 2019)
-- [Login Exercise](login-exercise) (Deadline Wednesday, 25 September 2019, 23:55, [Code review](#code-review) during lecture on Friday, 27 September 2019)
+- [Login Exercise](login-screen-exercise) (Deadline Wednesday, 25 September 2019, 23:55, [Code review](#code-review) during lecture on Friday, 27 September 2019)
 - [REST Exercise](rest-exercise) (Deadline Thursday, 10 October 2019, 23:55, [Code review](#code-review) session during lecture on Monday, 14 October 2019)
 - More fixed exercises will be announced throughout the semester
 
