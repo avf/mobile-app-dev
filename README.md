@@ -12,6 +12,8 @@ The freeform exercises are much more flexible. You can choose which topics you'd
 
 This course is very new, so you'll probably encounter some rough edges and run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](#support-or-contact). I'm always happy to help.
 
+This is a living document. If you have suggestions for improvements, or found a mistake, please send me a message. Or even better, [fork the repo on GitHub](https://github.com/avf/mobile-app-dev) and send me a pull request.
+
 ### [Lectures & Topics](lectures)
 
 I've divided the lecture topics into lecture blocks. One lecture block may span multiple lectures. This way I can stay flexible in how many lectures I dedicate to one block.
