@@ -48,7 +48,7 @@ print("Hello, World!") // This works because Swift programs by default execute s
 //: 1. Set the value for the key `"Answer to Life, the Universe and Everything"` to `42`.
 
 //: ### Optionals
-//: 1. Create an optional `String` variable
+//: 1. Create an optional `String` variable and assign a non-nil value of your choice
 //: 1. Print the String on the console. Make sure the variable is first unwrapped and only the actual value is printed. You may either force-unwrap the string or use an `if let` construct.
 //: 1. What happens if you force-unwrap an optional variable that contains `nil`?
 //: 1. Create another optional `String` variable and asign the value `nil`. Use the nil coalescing operator (`??`) to print the first unwrapped String from above.
@@ -78,10 +78,10 @@ let myNumbers = [12, 23, 1, 104]
 //: ### Functions and Closures
 //: Functions
 //: 1. Declare and call a function without any parameters or return type that prints Hello World.
-//: 1. Declare and call a function that takes two strings as parameters and returns a string.
+//: 1. Declare and call a function that takes two strings as parameters and returns a string. Remember that in Swift, most funtions have argument labels. Make sure to include them, you don't need to modify the argument labels in any way.
 //: 1. Declare and call a function with the same signature (two strings as parameters and returns a string), but this time remove the first argument label.
 //: 1. Declare and call a function with the same signature (two strings as parameters and returns a string), but this time make the first argument label **different** from the parameter name (=use a custom argument label).
-//: 1. Declare a function with an default parameter value. Call the function twice, once with the argument present, once without.
+//: 1. Declare a function with a default parameter value. Call the function twice, once with the argument present, once without.
 //: 1. Declare a function with name `callAFunction` that takes another function as parameter and then executes it. Call your newly declared `callAFunction` and pass in one of the functions you previously declared.
 
 //: Closures
@@ -109,7 +109,7 @@ callAClosure(closure: { (item1: String, item2: String) -> String in
 //: 1. Add a `name` computed property that returns a `String` containing the first and last name.
 //: 1. Add a method named `greet` that returns the following `String`: `"Hi, I'm \(name)."`
 //: 1. Create a subclass of `Person` and name it `Student`.
-//: 1. Add a `Float?` optional property called `grade`. Use property observers to make sure that the grade is not lower than 1.0 and not higher than 5.0 when it gets set. Clamp the new value to this interval.
+//: 1. Add a `Float?` optional property called `grade`. Use the `didSet` property observer to make sure that the grade is not lower than 1.0 and not higher than 5.0 after it was set. Clamp the new value to this interval - so if a value higher than 5.0 is set, set it to 5.0 afterwards. If a value lower than 1.0 is set, set it to 1.0 afterwards.
 //: 1. Override the `greet` function from the superclass. If the `grade` property is set, it should now return `"Hi, I'm \(name). My grade is: \(grade)"`. If the `grade property isn't set, return the superclass's implementation.
 
 //: ### Enums and Structs
