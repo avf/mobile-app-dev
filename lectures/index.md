@@ -129,6 +129,14 @@ The official Apple and Swift documentation are always a great place to start if
 - [Swift Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 - [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 
+### Attendance
+
+If you can’t come to the lecture, or will be late/leave early, please send me an email in advance to inform me of your absence. Please don't tell me at the lecture or via Telegram, since it’s hard for me to keep track of who is excused if I have to use multiple communication channels.
+
+If you miss one of the lectures with a scheduled code review for one of the exercises, you’ll be given another chance to complete it in the following lecture that you attend. Please note that this doesn’t affect the deadline for submitting the code itself. Make sure to take another look at the code before the code review, since you’ll be graded on your understanding of the code and concepts, not the code itself.
+
+Also, due to FH rules, to pass this course, an attendance of 80% or more is required. For more information please see the FH wide rules on attendance in the "Studien- and Prüfungsordnung" which you can find [here](https://www.fh-campuswien.ac.at/die-fh/organisation/hochschulleitung.html).
+
 ### Stanford Course
 
 Some of the lectures will be loosely based on the Stanford course CS193P from the fall 2018 semester. The videos for this course are on [YouTube](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq), and the [lecture slides, exercises and code are also available](https://drive.google.com/open?id=1-TWZDChwwzkiGzt78QlPZDzN-j82JfR6).
