@@ -135,7 +135,7 @@ If you can’t come to the lecture, or will be late/leave early, please send me 
 
 If you miss one of the lectures with a scheduled code review for one of the exercises, you’ll be given another chance to complete it in the following lecture that you attend. Please note that this doesn’t affect the deadline for submitting the code itself. Make sure to take another look at the code before the code review, since you’ll be graded on your understanding of the code and concepts, not the code itself.
 
-Also, due to FH rules, to pass this course, an attendance of 80% or more is required. For more information please see the FH wide rules on attendance in the "Studien- and Prüfungsordnung" which you can find [here](https://www.fh-campuswien.ac.at/die-fh/organisation/hochschulleitung.html).
+Otherwise, standard FH Campus attendance rules apply. For more information please see the FH wide rules on attendance in the "Studien- and Prüfungsordnung" which you can find [here](https://www.fh-campuswien.ac.at/die-fh/organisation/hochschulleitung.html).
 
 ### Stanford Course
 
