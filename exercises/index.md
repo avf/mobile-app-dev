@@ -35,6 +35,7 @@ Since this course is very new, you'll probably run into problems in these exerci
 - [Swift Exercise](swift-exercise) (Deadline Wednesday, 11 September 2019, 23:55. [Code review](#code-review) session during lecture on Friday, 13 September 2019)
 - [Login Exercise](login-screen-exercise) (Deadline Wednesday, 25 September 2019, 23:55, [Code review](#code-review) during lecture on Friday, 27 September 2019)
 - [REST Exercise](rest-exercise) (Deadline Thursday, 10 October 2019, 23:55, [Code review](#code-review) session during lecture on Monday, 14 October 2019)
+- [TableView Exercise](tableview-exercise) (Deadline Monday, 11 November 2019, 23:55, [Code review](#code-review) session during lecture on Wednesday, 13 November 2019) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
 - More fixed exercises will be announced throughout the semester
 
 ## [Freeform Exercises](freeform)

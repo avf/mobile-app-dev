@@ -51,8 +51,8 @@ Note that I intentionally chose a short email/password combo to make testing eas
 
 - To get an appropriately formatted JSON string, you need to construct a dictionary of type `[String: Any]`, which contains the above keys and data. Then, use `JSONSerialization.data(withJSONObject: dictionary, options: [])` to serialize the data. Since this method may `throw` an error, for now you can use `try!` to disable error propagation. Later in this exercise we'll properly handle the error.
 - Now use the `URLSession` constant you created earlier to create a `URLSessionDataTask` with the `URLRequest` you created. Take a look at [this method](https://developer.apple.com/documentation/foundation/urlsession/1407613-datatask) if you're stuck.
-- In the above method's `completionHandler`, print out the three parameters: the `Data`, `URLResponse` and `Error`.
-- Call the `resume()` method on your newly created `URLSessionDataTask` to start the request. 
+- In the above method's `completionHandler`, print out the three parameters: the `Data`, `URLResponse` and `Error`. You'll have to convert the `Data` object into a `String` first. You can do so by calling `String(data: data, encoding: .utf8)`.
+- Call the `resume()` method on your newly created `URLSessionDataTask` to start the request.
 - Find a good place to create an instance of your networking class and call your new `login` method. For example, you could call the method from the action that is called when the user presses the login button in the `ViewController`. For testing, you may want to temporarily hardcode your email and password so you don't have to manually re-type it every time you restart the application. 
 - Take a look at the console output. If you get a response in the following format, you were successful!
 
