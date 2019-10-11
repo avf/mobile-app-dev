@@ -26,7 +26,7 @@ See the submission instructions on the [exercises page](../#submission-instructi
 
 ## API Key, Username, Password
  
-In this exercise, we're going to use the REST API of the Google Firebase service. Specifically, we're going to use [this endpoint](https://firebase.google.com/docs/firestore/reference/rest/v1beta1/projects.databases.documents/list#http-request) to sign in with an email/password combo. You shouldn't necessarily have to dig through the docs above to be able to complete this exercise. Everything you need should be in the instructions below, but the above link might still help you understand the inner workings of the API.
+In this exercise, we're going to use the REST API of the Google Firebase service. Specifically, we're going to use [this endpoint](https://firebase.google.com/docs/firestore/reference/rest/v1beta1/projects.databases.documents/list#http-request) to download a list of data. You shouldn't necessarily have to dig through the docs above to be able to complete this exercise. Everything you need should be in the instructions below, but the above link might still help you understand the inner workings of the API.
 
 When using the API, build upon your code of the previous exercises and use the same credentials as in the [REST exercise](../rest-exercise).
 
