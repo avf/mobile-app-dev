@@ -18,11 +18,11 @@ The main goal of these tasks is to learn the following things:
 
 ## Deadline
 
-See the deadline on the [exercises page](../#fixed-exercises).
+See the deadline on the [exercises page](./#fixed-exercises).
 
 ## Submission instructions
 
-See the submission instructions on the [exercises page](../#submission-instructions).
+See the submission instructions on the [exercises page](./#submission-instructions).
 
 ## API Key, Username, Password
  

@@ -8,11 +8,11 @@ The main goal of this exercise is for you to get familiar with Auto Layout.
 
 ## Deadline
 
-See the deadline on the [exercises page](../#fixed-exercises).
+See the deadline on the [exercises page](./#fixed-exercises).
 
 ## Submission instructions
 
-See the submission instructions on the [exercises page](../#submission-instructions).
+See the submission instructions on the [exercises page](./#submission-instructions).
 
 ## Instructions, Requirements and Hints
 

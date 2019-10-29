@@ -6,11 +6,11 @@ The main goal of this exercise is for you to learn how to query REST APIs using 
 
 ## Deadline
 
-See the deadline on the [exercises page](../#fixed-exercises).
+See the deadline on the [exercises page](./#fixed-exercises).
 
 ## Submission instructions
 
-See the submission instructions on the [exercises page](../#submission-instructions).
+See the submission instructions on the [exercises page](./#submission-instructions).
 
 ## API Key, Username, Password
 
