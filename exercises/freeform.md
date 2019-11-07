@@ -152,8 +152,8 @@ Ever thought of a cool feature for a mobile app? Want to try out any of the fram
 
 ### Ideas that I'm not super excited about
 
-- **Games**: You can implement a game, but only if it uses `UIKit` and Auto Layout. See the idea with [animations and gesture recognizers](#animations-and-gesture-recognizers) above. This could work for simple puzzle games, but for anything with fancy graphics and fast user interaction it will probably be too slow. Since this isn't a course on game development, I don't want you to use any low-level graphics APIs or third party game engines like Unity, etc.
-- **Cross-Platform Apps**: Due to resource constraints on my part, I'd prefer you not to work on cross-platform apps. For this course, please stick to iOS and Swift.
+- **Games**: You can implement a game, but only if it uses `UIKit` and Auto Layout. See the idea with [animations and gesture recognizers](#animations-and-gesture-recognizers) above. This could work for simple puzzle games, but for anything with fancy graphics and fast user interaction it will probably be too slow. Since this isn't a class on game development, I don't want you to use any low-level graphics APIs or third party game engines like Unity, etc.
+- **Cross-Platform Apps**: Due to resource constraints on my part, I'd prefer you not to work on cross-platform apps. For this class, please stick to iOS and Swift.
 
 ## Help and Support
 

@@ -27,7 +27,7 @@ After this block is finished, you should have the required knowledge to complete
 - [Lecture Block 1 Slides](../slides/lecture1.key)
 - [Swift Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 - [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
-- Lectures 3, 4, and 5 in the [Stanford course](#stanford-course)
+- Lectures 3, 4, and 5 in the [Stanford class](#stanford-class)
 - Advanced Resource: [Protocol-Oriented Programming in Swift](https://developer.apple.com/videos/play/wwdc2015/408/)
 - Advanced Resource: [Building Better Apps with Value Types in Swift](https://developer.apple.com/videos/play/wwdc2015/414/)
 
@@ -48,7 +48,7 @@ After this block is finished, you should have the required knowledge to complete
 
 #### Resources
 
-- Lectures 2, 5, 10, 12, 15 in the [Stanford course](#stanford-course)
+- Lectures 2, 5, 10, 12, 15 in the [Stanford class](#stanford-class)
 - [Apple UIView Documentation](https://developer.apple.com/documentation/uikit/uiview)
 - [Apple Auto Layout Documentation](https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
 - [Swift Auto Layout Tutorial](https://www.raywenderlich.com/443-auto-layout-tutorial-in-ios-11-getting-started)
@@ -66,7 +66,7 @@ After this block is finished, you should have the required knowledge to complete
 
 #### Resources
 
-- Lecture 10 in the [Stanford course](#stanford-course)
+- Lecture 10 in the [Stanford class](#stanford-class)
 - [`URLSession` tutorial](https://learnappmaking.com/urlsession-swift-networking-how-to/)
 - [Apple `Codable` documentation](https://developer.apple.com/documentation/foundation/archives_and_serialization/encoding_and_decoding_custom_types)
 
@@ -84,7 +84,7 @@ After this block is finished, you should have the required knowledge to complete
 
 #### Resources
 
-- Lectures 7, 9, 11 in the [Stanford course](#stanford-course)
+- Lectures 7, 9, 11 in the [Stanford class](#stanford-class)
 - [`UIScrollView` and Auto Layout](https://medium.com/@luisfmachado/uiscrollview-autolayout-on-a-storyboard-a-step-by-step-guide-15bd67ee79e9)
 - [`UIScrollView` and Auto Layout in Apple Docs](https://developer.apple.com/library/archive/technotes/tn2154/_index.html)
 
@@ -103,7 +103,7 @@ After this block is finished, you should have the required knowledge to complete
 
 #### Resources
 
-- Lecture 13 in the [Stanford course](#stanford-course)
+- Lecture 13 in the [Stanford class](#stanford-class)
 - [Apple Core Data Documentation](https://developer.apple.com/documentation/coredata)
 - [Apple Core Data Guide](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreData/index.html)
 - [Core Data Tutorial](https://www.raywenderlich.com/7569-getting-started-with-core-data-tutorial)
@@ -137,7 +137,7 @@ If you miss one of the lectures with a scheduled code review for one of the exer
 
 Otherwise, standard FH Campus attendance rules apply. For more information please see the FH wide rules on attendance in the "Studien- and Prüfungsordnung" which you can find [here](https://www.fh-campuswien.ac.at/die-fh/organisation/hochschulleitung.html).
 
-### Stanford Course
+### Stanford Class
 
-Some of the lectures will be loosely based on the Stanford course CS193P from the fall 2018 semester. The videos for this course are on [YouTube](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq), and the [lecture slides, exercises and code are also available](https://drive.google.com/open?id=1-TWZDChwwzkiGzt78QlPZDzN-j82JfR6).
+Some of the lectures will be loosely based on the Stanford class CS193P from the fall 2018 semester. The videos for this class are on [YouTube](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq), and the [lecture slides, exercises and code are also available](https://drive.google.com/open?id=1-TWZDChwwzkiGzt78QlPZDzN-j82JfR6).
 

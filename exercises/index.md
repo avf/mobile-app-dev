@@ -2,7 +2,7 @@
 
 ## How to set up your development environment
 
-iOS development for this course requires a Mac computer running macOS 10.14.4 or higher. If you don't have access to one, you should already have received access to a cloud provider where you can connect to a macOS VM via Remote Desktop.
+iOS development for this class requires a Mac computer running macOS 10.14.4 or higher. If you don't have access to one, you should already have received access to a cloud provider where you can connect to a macOS VM via Remote Desktop.
 
 ### For both
 
@@ -30,7 +30,7 @@ iOS development for this course requires a Mac computer running macOS 10.14.4 or
 
 These exercises are relatively fixed in their scope and tasks. They're almost like an interactive tutorial, but without the solution ;-)
 
-Since this course is very new, you'll probably run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
+Since this class is very new, you'll probably run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
 
 - [Swift Exercise](swift-exercise) (Deadline Wednesday, 11 September 2019, 23:55. [Code review](#code-review) session during lecture on Friday, 13 September 2019)
 - [Login Exercise](login-screen-exercise) (Deadline Wednesday, 25 September 2019, 23:55, [Code review](#code-review) during lecture on Friday, 27 September 2019)
@@ -70,7 +70,7 @@ You can find all the details on the freeform exercises [here](freeform).
 	- Creativity
 	- Scope/Number of features. However, be careful, it's much better to have fewer features and have them work really well.
 - What you won't be graded on:
-	- Visual design. This is mainly a technical course, so visual design isn't super important. As long as UI elements are laid out properly and work on different device sizes, they don't have to look super fancy.
+	- Visual design. This is mainly a technical class, so visual design isn't super important. As long as UI elements are laid out properly and work on different device sizes, they don't have to look super fancy.
 	
 ## Code review
 
