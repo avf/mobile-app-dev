@@ -35,12 +35,15 @@ Since this class is very new, you'll probably run into problems in these exercis
 - [Swift Exercise](swift-exercise) (Deadline Wednesday, 11 September 2019, 23:55. [Code review](#code-review) session during lecture on Friday, 13 September 2019)
 - [Login Exercise](login-screen-exercise) (Deadline Wednesday, 25 September 2019, 23:55, [Code review](#code-review) during lecture on Friday, 27 September 2019)
 - [REST Exercise](rest-exercise) (Deadline Thursday, 10 October 2019, 23:55, [Code review](#code-review) session during lecture on Monday, 14 October 2019)
-- [TableView Exercise](tableview-exercise) (Deadline Monday, 11 November 2019, 23:55, [Code review](#code-review) session during lecture on Wednesday, 13 November 2019) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
-- More fixed exercises will be announced throughout the semester
+- [TableView Exercise](tableview-exercise) (~~Deadline Monday, 11 November 2019, 23:55, [Code review](#code-review) session during lecture on Wednesday, 13 November 2019~~ **NEW Deadline: Sunday, 24 November 2019, 23:55**) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
+
+You'll have a chance to correct any mistakes and implement feedback from the code reviews for the fixed exercises. If you want to do so, please submit an updated, cleaned up and final version of your app. The app should contain all the code from all the fixed exercises. You can also include an updated playground for the Swift exercise. The deadline for this is the same as for the first freeform exercise submission. However, please prioritize the freeform exercises over the updated fixed exercises. If you don't have enough time to do both, it's better to do the freeform exercises well.
+
+- Updated fixed exercises submission: **Deadline Wednesday, 8 January 2020 23:55**
 
 ## [Freeform Exercises](freeform)
 
-You can find all the details on the freeform exercises [here](freeform).
+You can find all the details and deadlines on the freeform exercises [here](freeform).
 
 ## Submission instructions
 
