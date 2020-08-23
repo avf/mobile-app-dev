@@ -2,12 +2,12 @@
 
 ## How to set up your development environment
 
-iOS development for this class requires a Mac computer running macOS 10.14.4 or higher. If you don't have access to one, you should already have received access to a cloud provider where you can connect to a macOS VM via Remote Desktop.
+iOS development for this class requires a Mac computer running macOS 10.15.x or higher. If you don't have access to one, you should already have received access to a cloud provider where you can connect to a macOS VM via Remote Desktop.
 
 ### For both
 
 - You're going to need a free Apple developer account, which you can create [here](https://developer.apple.com/account/).
-- If you want to use the free [SourceTree](https://www.sourcetreeapp.com/) app, which I highly recommend, you'll also need a free Atlassian account, which you can get at [here](https://www.atlassian.com/).
+- Since we're using GitHub Classroom for the exercises, please also create a free [GitHub](https://github.com) account, if you don't have one yet.
 
 ### Using the cloud
 
@@ -32,14 +32,10 @@ These exercises are relatively fixed in their scope and tasks. They're almost li
 
 Since this class is very new, you'll probably run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
 
-- [Swift Exercise](swift-exercise) (Deadline Wednesday, 11 September 2019, 23:55. [Code review](#code-review) session during lecture on Friday, 13 September 2019)
-- [Login Exercise](login-screen-exercise) (Deadline Wednesday, 25 September 2019, 23:55, [Code review](#code-review) during lecture on Friday, 27 September 2019)
-- [REST Exercise](rest-exercise) (Deadline Thursday, 10 October 2019, 23:55, [Code review](#code-review) session during lecture on Monday, 14 October 2019)
-- [TableView Exercise](tableview-exercise) (~~Deadline Monday, 11 November 2019, 23:55, [Code review](#code-review) session during lecture on Wednesday, 13 November 2019~~ **NEW Deadline: Sunday, 24 November 2019, 23:55**) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
-
-You'll have a chance to correct any mistakes and implement feedback from the code reviews for the fixed exercises. If you want to do so, please submit an updated, cleaned up and final version of your app. The app should contain all the code from all the fixed exercises. You can also include an updated playground for the Swift exercise. The deadline for this is the same as for the first freeform exercise submission. However, please prioritize the freeform exercises over the updated fixed exercises. If you don't have enough time to do both, it's better to do the freeform exercises well.
-
-- Updated fixed exercises submission: **Deadline Wednesday, 8 January 2020 23:55**
+- [Swift Exercise](swift-exercise) (Deadline Tuesday, 15 September 2020, 23:55. [Code review](#code-review) session during lecture on Wednesday, 16 September 2020). [GitHub Classroom Link](https://classroom.github.com/a/vtSoXVCb)
+- [Login Exercise](login-screen-exercise) (Deadline TBA)
+- [REST Exercise](rest-exercise) (Deadline TBA)
+- [TableView Exercise](tableview-exercise) (Deadline TBA) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
 
 ## [Freeform Exercises](freeform)
 
@@ -47,16 +43,15 @@ You can find all the details and deadlines on the freeform exercises [here](free
 
 ## Submission instructions
 
-- All exercises must be submitted before the deadline [via email](../README.md/#support-or-contact). There's two ways to submit:
-	- Send me a zipped Xcode playground or Xcode project, including all source files
-	- Create a private git repository and give me access (do not make your code public). I will only look at commits done to the repo before the deadline.
+- All exercises must be submitted before the deadline via GitHub Classroom. You can find the submission link for each exercise above.
+- Not submitting before the deadline, or not using the correct repository through GitHub Classroom will be graded the same as not submitting at all.
 - You may submit as many times as you like before the deadline. I will only look at your last submission.
 - Make sure you understand all the concepts for the [code review session](#code-review) in the lecture after the submission deadline. You'll be graded according to your understanding of the code and the underlying concepts, not the code itself.
 
 ## General requirements
 
-- All exercises must build in Xcode version 10.3.x without errors or warnings
-- All exercises should run on the latest stable iOS version (currently 12.x).
+- All exercises must build in Xcode version 11.6.x without errors or warnings
+- All exercises should run on the latest stable iOS version.
 - Exercises should never crash. Errors should be handled properly, unless explicitly allowed otherwise in the exercise instructions
 - Except for the Swift exercise, all the fixed exercises must run without errors in the iOS Simulator. For the freeform exercises you may use iOS capabilities that require a physical device, but the app should still handle these cases gracefully on the simulator (i.e. display an error when such a feature is accessed, not just crash).
 
@@ -77,7 +72,7 @@ You can find all the details and deadlines on the freeform exercises [here](free
 	
 ## Code review
 
-During the lecture after the submission, we're going to do a short 1-on-1 code review session where you explain the code to me. You'll be graded according to your understanding of the code and the underlying concepts, not the code itself.
+During the lecture after the submission, we're going to do a short 1-on-1 code review session by random sample. You will explain the code to me. You'll be graded according to your understanding of the code and the underlying concepts, not the code itself.
 
 ## Help and Support
 

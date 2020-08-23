@@ -8,19 +8,7 @@ You need to complete at least two freeform exercises of medium to large scope to
 
 ### Important Deadlines
 
-#### Proposals (see [below](#proposals))
-
-- Please submit all [proposals](#proposals) until **Wednesday, 4 December 2019 23:55**
-- Please submit your reviewed, updated and final proposals until **Friday, 13 December 2019 23:55**
-
-#### Freeform exercises
-
-There are two deadlines for freeform exercise submissions:
-
-- Please submit your first batch of freeform exercises until **Wednesday, 8 January 2020 23:55**
-- Please submit your second and final batch of freeform exercises until **Wednesday, 22 January 2020 23:55**
-
-Since the number and scope of freeform exercises isn't fixed, what exactly you'll have to submit will be a bit different for each student. We'll individually discuss when to submit what during the proposal phase. When writing the proposals, please keep the deadlines in mind and try to get a rough plan of when you're going to submit which features.
+TBA
 
 ## Proposals
 
@@ -30,7 +18,7 @@ The proposal should contain a textual description that describes in detail what 
 
 Also, include very simple wireframes. They don't need to have any graphical fidelity at all, but it's important that the navigation and user interaction is clear. You can either use a digital tool to create the wireframes, or simply use pen and paper. If you use a digital tool, I recommend [Figma](https://www.figma.com/).
 
-Here is a [sample proposal](sample-proposal) for the [MapKit](#mapkit) idea from below. Take a look to see what I expect from these proposals. It should also give you an idea on the scope of these freeform exercises.
+Here is a [sample proposal](sample-proposal) for the [MapKit](#mapkit) idea from below. Take a look to see what I expect from these proposals. It should also give you an idea on the scope of these freeform exercises. Please be aware that you shouldn't just copy the ideas from the sample proposal, but come up with your own.
 
 After you submit your proposals, I'll take a look and will let you know what I think. Sometimes, I may tell you that a proposal needs to be more precise. Sometimes I'll tell you that it's too large or too small in scope. You'll then have time to submit a revision.
 
