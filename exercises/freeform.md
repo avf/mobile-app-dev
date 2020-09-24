@@ -66,6 +66,13 @@ This works really well with the previous idea. Download some data from a public 
 - **Difficulty**: Easy - Medium
 - **Support Level**: High
 
+### SwiftUI
+
+Instead of implementing the previous idea with UIKit/Auto Layout, you could also use SwiftUI.
+
+- **Difficulty**: Medium
+- **Support Level**: Low - Medium
+
 ### Animations and Gesture Recognizers
 
 Use `UIKit` animations to create interesting, good looking animations. Add a few custom `UIViews` that are animated. Have your users interact with the views in some way, using `UIGestureRecognizer`.
@@ -78,6 +85,8 @@ Use `UIKit` animations to create interesting, good looking animations. Add a few
 Download some data from a public API. For example, use the [Vienna Open Data API](https://www.data.gv.at/) to get a list of public locations in Vienna with additional data (like opening times, etc.). Display the locations as pins on a map using `MKMapView`. When tapping a location, show some kind of detail ViewController that displays more info on the location.
 
 Or, use the `CoreLocation` framework to get the user's current location via GPS. Use the `CLGeocoder` framework and a reverse geocoder to get the user's address for the current location. You could then show information about for example restaurants that are nearby.
+
+If you choose this topic, please make sure that it is different enough from the sample proposal.
 
 - **Difficulty**: Medium
 - **Support Level**: High
