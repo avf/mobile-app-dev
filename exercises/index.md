@@ -32,10 +32,10 @@ These exercises are relatively fixed in their scope and tasks. They're almost li
 
 Since this class is very new, you'll probably run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
 
-- [Swift Exercise](swift-exercise) (Deadline Tuesday, 15 September 2020, 23:55. [Code review](#code-review) session during lecture on Wednesday, 16 September 2020). [GitHub Classroom Link](https://classroom.github.com/a/vtSoXVCb)
-- [Login Exercise](login-screen-exercise) (Deadline TBA)
-- [REST Exercise](rest-exercise) (Deadline TBA)
-- [TableView Exercise](tableview-exercise) (Deadline TBA) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
+- [Swift Exercise](swift-exercise) (Deadline Tuesday, 15 September 2020, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/vtSoXVCb)
+- [Login Exercise](login-screen-exercise) (Deadline Friday, 2 October 2020, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/xPwubi8_))
+- [REST Exercise](rest-exercise) (Deadline Friday, 16 October 2020, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/phKcZTHH))
+- [TableView Exercise](tableview-exercise) (Deadline Friday, 20 November 2020, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/yTdUU3zW)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
 
 ## [Freeform Exercises](freeform)
 
