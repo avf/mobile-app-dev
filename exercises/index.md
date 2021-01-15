@@ -59,7 +59,7 @@ You can find all the details and deadlines on the freeform exercises [here](free
 
 - **Most importantly**: You are graded on your **understanding** of the code, not the code itself. Even the best code isn't worth much if you don't understand the underlying concepts.
 - **You need to complete and pass all fixed exercises to receive a passing grade.**
-- **You need to complete at least 3 freeform exercises to receive a passing grade.**
+- **You need to complete at least 2 freeform exercises to receive a passing grade.**
 - For the fixed exercises, you'll be graded on:
 	- Completeness (is everything there that the exercise asked for)
 	- Understanding of the main concepts
