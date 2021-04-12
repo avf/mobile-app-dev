@@ -33,7 +33,7 @@ After this block is finished, you should have the required knowledge to complete
 
 ### Lecture Block 2 - UIKit & Auto Layout fundamentals
 
-After this block is finished, you should have the required knowledge to complete the [Login exercise](../exercises/login-exercise).
+After this block is finished, you should have the required knowledge to complete the [Login exercise](../exercises/login-screen-exercise).
 
 #### Topics
 
