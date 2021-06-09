@@ -2,27 +2,13 @@
 
 ## How to set up your development environment
 
-iOS development for this class requires a Mac computer running macOS 10.15.x or higher. If you don't have access to one, you should already have received access to a cloud provider where you can connect to a macOS VM via Remote Desktop.
-
-### For both
+iOS development for this class requires a Mac computer running the latest stable macOS version. If you don't have access to one, we might be able to offer you a loaner device (more info on that via email after all participating students have been registered).
 
 - You're going to need a free Apple developer account, which you can create [here](https://developer.apple.com/account/).
 - Since we're using GitHub Classroom for the exercises, please also create a free [GitHub](https://github.com) account, if you don't have one yet.
-
-### Using the cloud
-
-- Connect using the instructions and login data you received via email.
-- A wired connection (Ethernet, not Wi-Fi) might result in a better experience, due to reduced latency
-- You don't need to install anything, everything's already been set up and installed
-- **Make sure to log out when you're done by clicking the Apple symbol at the top of the menu bar and selecting `Log Out`. Closing the Remote Desktop window is not enough.**
-- Due to cost constraints, there's a 3 hour daily limit on the VM usage. **If you forget to log out, the timer will keep running. Log out while you're not using the VM.**
-- Running your apps on a physical device using the cloud is possible, but a bit more complicated than just plugging in the device. If you're interested in doing so, please [contact me](../README.md/#support-or-contact) for help.
-
-### Using your own Mac
-
 - Install the latest stable Xcode version. I recommend installing via [this fairly hidden download page](https://developer.apple.com/download/more/) on the Apple developer site, **not** via the App Store. The App Store version has the disadvantage that it will sometimes automatically update. Since Xcode ships with the latest Swift compiler, iOS SDK, etc., this can sometimes cause your code to break. Downloading and installing directly through the developer site doesn't have this problem. This way you can also install multiple Xcode versions side-by-side.
 - Just so you know, downloading and installing Xcode can take a very long time. Do this early enough, so you have enough time to focus on the exercises.
-- After installation run Xcode once, since it will install additional components.
+- After the installation, run Xcode once, since it will install additional components.
 - I strongly recommend installing [Homebrew](https://brew.sh/) on your system. It's a package manager that allows you to easily install additional software.
 - Make sure [git](https://git-scm.com/) is installed and up-to-date. If you installed Homebrew, you can do so by simply running `brew install git` from your terminal.
 
@@ -50,7 +36,7 @@ You can find all the details and deadlines on the freeform exercises [here](free
 
 ## General requirements
 
-- All exercises must build in Xcode version 11.6.x without errors or warnings
+- All exercises must build in the latest stable Xcode version without errors or warnings
 - All exercises should run on the latest stable iOS version.
 - Exercises should never crash. Errors should be handled properly, unless explicitly allowed otherwise in the exercise instructions
 - Except for the Swift exercise, all the fixed exercises must run without errors in the iOS Simulator. For the freeform exercises you may use iOS capabilities that require a physical device, but the app should still handle these cases gracefully on the simulator (i.e. display an error when such a feature is accessed, not just crash).

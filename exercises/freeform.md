@@ -93,7 +93,7 @@ If you choose this topic, please make sure that it is different enough from the 
 
 ### ARKit
 
-**Requires a physical iOS device. Not recommended when you're using the Cloud VM.**
+**Requires a physical iOS device.**
 
 Download some freely available 3D models and display them in augmented reality using `ARKit` and `SceneKit`. Have the user interact with them in some interesting way.
 
@@ -102,7 +102,7 @@ Download some freely available 3D models and display them in augmented reality u
 
 ### Camera
 
-**Requires a physical iOS device. Not recommended when you're using the Cloud VM.**
+**Requires a physical iOS device.**
 
 Use the iOS camera to do something interesting. For example, you could use it to read in QRCodes, and display the data in an interesting way. Or, if you have access to an iPhone with FaceID, you could read in the facial features of the user and use them to do something interesting.
 
@@ -111,7 +111,7 @@ Use the iOS camera to do something interesting. For example, you could use it to
 
 ### Publish your App on the App Store
 
-**Requires a physical iOS device. Not recommended when you're using the Cloud VM. Requires a paid developer account which costs 99€/year.**
+**Requires a physical iOS device. Requires a paid developer account which costs 99€/year.**
 
 This is not a very technical challenge, but it does require a lot of work to publish an App on the Store. If you want to do this, you should use something like [fastlane](https://fastlane.tools/) to automate the generation of App screenshots and deployment. Also, you need an App that is sufficiently useful and complex to be accepted into the store, otherwise you won't get through Apple's review.
 
@@ -148,7 +148,7 @@ Create a useful third party iOS or Swift library. Publish it using `CocoaPods`, 
 
 ### Create a music player
 
-**Requires a physical iOS device. Not recommended when you're using the Cloud VM.**
+**Requires a physical iOS device.**
 
 Use `MusicKit` to access the music on your device and Apple Music. Create a simple music player UI to play the music.
 
