@@ -37,7 +37,7 @@ See the submission instructions on the [exercises page](./#submission-instructio
 
 ### Implement the login action
 
-- Use the Swift `guard` statement to implement client-side validation of login data. No need to verify the email address, for this exercise, it's enough to make sure that the text in the textfield is a non-empty string. If any of the textFields is empty, add some kind of indication that something is missing. For example, you could add another `UILabel` to the layout that has its `isHidden` property set to `true` and only appears after the verification fails. Or you could present a `UIAlertController` that contains an error message.
+- Use the Swift `guard` statement (you can read up on it [here](https://learnappmaking.com/swift-guard-let-statement-how-to/)) to implement client-side validation of login data. No need to verify the email address, for this exercise, it's enough to make sure that the text in the textfield is a non-empty string. If any of the textFields is empty, add some kind of indication that something is missing. For example, you could add another `UILabel` to the layout that has its `isHidden` property set to `true` and only appears after the verification fails. Or you could present a `UIAlertController` that contains an error message.
 - For now, we won't actually be doing a real login to a webservice yet. Instead, simply check if the email and password match a hardcoded email/password combo.
 - To simulate the asynchronous nature of the login, use the following code snippet:
 ```
@@ -46,7 +46,7 @@ DispatchQueue.main.asyncAfter(deadline: .now() + 2) {
     // Check here if the login was successful
 }
 ```
-- Present a `UIAlertController` when the fake login is done with a success or error message.
+- Present a `UIAlertController` when the fake login is done with a success or error message. You can read up on how to create one [here](https://developer.apple.com/documentation/uikit/uialertcontroller).
 - We don't want the user to be able to log in twice at the same time. Make sure that while the fake login is running, all the UI elements are disabled (set `isEnabled` to `false`).
 - While the fake login is running, the user should understand what's going on. Add feedback by creating a `UIActivityIndicatorView` in your storyboard. Make sure that it's initially hidden. Show it before calling the fake log in and hide it after it's done.
 - Don't forget to clean up and re-enable the UI elements and hide the activity indicator once the login is done.
