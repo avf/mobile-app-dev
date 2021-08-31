@@ -4,23 +4,11 @@ For the freeform exercises, you can implement your own ideas. Below are [some ex
 
 For each of the freeform exercises, you can either continue with one of the projects from the fixed exercises, or start a new one. You can also combine multiple freeform exercises in the same project, to create one app with multiple cool features.
 
-You need to complete at least two freeform exercises of medium to large scope to receive a passing grade. You can also choose to work on multiple smaller features instead. I recommend that you mainly work on something that you find interesting.
+You need to complete at least two small freeform exercises, **or** one large freeform exercise to receive a passing grade. I recommend that you mainly work on something that you find interesting.
 
 ### Important Deadlines
 
-#### Proposals (see [below](#proposals))
-
-- Please submit all [proposals](#proposals) until **Friday, 6 November 2020 23:55**
-- Please submit your reviewed, updated and final proposals until **Friday, 20 November 2020 23:55**
-
-#### Freeform exercises
-
-There are two deadlines for freeform exercise submissions:
-
-- Please submit your first batch of freeform exercises until **Friday, 18 December 2020 23:55**
-- Please submit your second and final batch of freeform exercises until **Friday, 29 January 2021 23:55**
-
-Since the number and scope of freeform exercises isn't fixed, what exactly you'll have to submit will be a bit different for each student. We'll individually discuss when to submit what during the proposal phase. When writing the proposals, please keep the deadlines in mind and try to get a rough plan of when you're going to submit which features.
+See important deadlines on the [exercises page](../exercises#important-deadlines).
 
 ## Proposals
 

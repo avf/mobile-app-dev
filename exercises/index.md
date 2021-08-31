@@ -16,16 +16,35 @@ iOS development for this class requires a Mac computer running the latest stable
 
 These exercises are relatively fixed in their scope and tasks. They're almost like an interactive tutorial, but without the solution ;-)
 
-Since this class is very new, you'll probably run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
-
-- [Swift Exercise](swift-exercise) (Deadline Tuesday, 15 September 2020, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/vtSoXVCb)
-- [Login Exercise](login-screen-exercise) (Deadline Friday, 2 October 2020, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/xPwubi8_))
-- [REST Exercise](rest-exercise) (Deadline Friday, 16 October 2020, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/phKcZTHH))
-- [TableView Exercise](tableview-exercise) (Deadline Friday, 20 November 2020, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/yTdUU3zW)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
+Since this class is fairly new, you'll probably run into problems in these exercises. Maybe something isn't specified that should be, or maybe something is missing, or some information is conflicting. Since this will definitely happen, if you're stuck, or feel something is more difficult than it should be, please [contact me](../README.md/#support-or-contact). I'm always happy to help.
 
 ## [Freeform Exercises](freeform)
 
-You can find all the details and deadlines on the freeform exercises [here](freeform).
+You can find all the details on the freeform exercises [here](freeform).
+
+## Important Deadlines
+
+### Fixed exercises
+
+- [Swift Exercise](swift-exercise) (Deadline Wednesday, 15 September 2021, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/_wv1YMe_))
+- [Login Exercise](login-screen-exercise) (Deadline Wednesday, 6 October 2021, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/rwX3mPUX))
+- [REST Exercise](rest-exercise) (Deadline Wednesday, 10 November 2021, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/RNDgzVJr))
+- [TableView Exercise](tableview-exercise) (Deadline Wednesday, 15 December 2021, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/yvkd-vER)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
+
+### Freeform exercises proposals (see [here](freeform#proposals))
+
+- Please submit all [proposals](freeform#proposals) until **Wednesday, 24 November 2021 23:55**
+- Please submit your reviewed, updated and final proposals until **Wednesday, 8 December 2021 23:55**
+
+### Freeform exercises
+
+There are two deadlines for freeform exercise submissions:
+
+- Please submit your first batch of freeform exercises until **Wednesday, 12 January 2022 23:55**
+- Please submit your second and final batch of freeform exercises until **Wednesday, 26 January 2022 23:55**
+- [Github Classroom Link for both](https://classroom.github.com/a/oRrkmt1y)
+
+Since the number and scope of freeform exercises isn't fixed, what exactly you'll have to submit will be a bit different for each student. We'll individually discuss when to submit what during the proposal phase. When writing the proposals, please keep the deadlines in mind and try to get a rough plan of when you're going to submit which features.
 
 ## Submission instructions
 

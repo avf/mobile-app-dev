@@ -24,7 +24,6 @@ After this block is finished, you should have the required knowledge to complete
 
 #### Resources
 
-- [Lecture Block 1 Slides](../slides/lecture1.key)
 - [Swift Guided Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 - [Swift Language Guide](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 - Lectures 3, 4, and 5 in the [Stanford class](#stanford-class)
