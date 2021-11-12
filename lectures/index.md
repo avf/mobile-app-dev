@@ -84,8 +84,6 @@ After this block is finished, you should have the required knowledge to complete
 #### Resources
 
 - Lectures 7, 9, 11 in the [Stanford class](#stanford-class)
-- [`UIScrollView` and Auto Layout](https://medium.com/@luisfmachado/uiscrollview-autolayout-on-a-storyboard-a-step-by-step-guide-15bd67ee79e9)
-- [`UIScrollView` and Auto Layout in Apple Docs](https://developer.apple.com/library/archive/technotes/tn2154/_index.html)
 
 ### Lecture Block 5 - Persistence
 
@@ -138,5 +136,5 @@ Otherwise, standard FH Campus attendance rules apply. For more information pleas
 
 ### Stanford Class
 
-Some of the lectures will be loosely based on the Stanford class CS193P from the fall 2018 semester. The videos for this class are on [YouTube](https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq), and the [lecture slides, exercises and code are also available](https://drive.google.com/open?id=1-TWZDChwwzkiGzt78QlPZDzN-j82JfR6).
+Some of the lectures will be loosely based on the Stanford class CS193P from the fall 2018 semester. The videos for this class are on [YouTube](https://www.youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_), and the [lecture slides, exercises and code are also available](https://drive.google.com/open?id=1-TWZDChwwzkiGzt78QlPZDzN-j82JfR6).
 

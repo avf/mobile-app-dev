@@ -30,6 +30,14 @@ In this exercise, we're going to use the REST API of the Google Firebase service
 
 When using the API, build upon your code of the previous exercises and use the same credentials as in the [REST exercise](../rest-exercise).
 
+## Resources
+
+- [`UIScrollView` and Auto Layout](https://medium.com/@luisfmachado/uiscrollview-autolayout-on-a-storyboard-a-step-by-step-guide-15bd67ee79e9)
+- [`UIScrollView` and Auto Layout in Apple Docs](https://developer.apple.com/library/archive/technotes/tn2154/_index.html)
+- A good video tutorial for [UITableView](https://www.youtube.com/watch?v=C36sb5sc6lE)
+- Apple's written tutorial for [UITableView](https://developer.apple.com/tutorials/app-dev-training/setting-up-a-table-view)
+- [UITableView reference documentation](https://developer.apple.com/documentation/uikit/uitableview)
+
 ## Instructions, Requirements and Hints
 
 ### Setting up the project
