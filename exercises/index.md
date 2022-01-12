@@ -44,7 +44,7 @@ There are two deadlines for freeform exercise submissions:
 - Please submit your second and final batch of freeform exercises until **Wednesday, 26 January 2022 23:55**
 - [Github Classroom Link for both](https://classroom.github.com/a/oRrkmt1y)
 
-Since the number and scope of freeform exercises isn't fixed, what exactly you'll have to submit will be a bit different for each student. We'll individually discuss when to submit what during the proposal phase. When writing the proposals, please keep the deadlines in mind and try to get a rough plan of when you're going to submit which features.
+Since the number and scope of freeform exercises isn't fixed, what exactly you'll have to submit will be a bit different for each student. If you’re working on a single, bigger exercise, I’d like you to have at least one major aspect or feature of your app finished. This can be either a vertical slice (for example, one screen/feature is completely finished, including UI, networking, persistence), or a horizontal slice (for example, you haven’t written a single bit of UI code, but your entire networking and persistence infrastructure is finished). Both is fine. When writing the proposals, please keep the deadlines in mind and try to get a rough plan of when you're going to submit which features.
 
 ## Submission instructions
 
