@@ -14,6 +14,32 @@ This class is very new, so you'll probably encounter some rough edges and run in
 
 This is a living document. If you have suggestions for improvements, or found a mistake, please send me a message. Or even better, [fork the repo on GitHub](https://github.com/avf/mobile-app-dev) and send me a pull request.
 
+### Required previous knowledge
+
+This is a fairly intense class that involves a lot of programming. You will need very good skills in object oriented programming to keep up. Specifically, you should understand and be able to apply the following concepts and technologies:
+
+- Programming
+    - Programming basics (Variables, Functions/Methods, Conditionals, Loops)
+    - Data structures (Arrays/Lists, Maps/Dictionaries, Sets, Enums)
+    - Interfaces (for example in Java)
+    - Classes & Inheritance
+- Concepts
+    - HTTP, JSON and REST
+    - Relational Databases/SQL (basics)
+    - Working with a package manager/dependency manager (for example, npm, maven, gradle, etc.)
+- Tooling
+    - unix shell/command line (basic knowledge, like being able to create/switch directories, open/move/copy files)
+    - git
+- Not required, but looking it up in advance will really help if you've never heard of it:
+    - Lambdas/Callbacks/Closures (different names for the same concept)
+    - Concurrency/Multithreading/Asynchronous callbacks/Promises
+    - Optionals (for example the Java 8 `Optional` type)
+    - Homebrew (package manager for macOS)
+
+Don't worry if you're missing a few things on this list - you can learn them as you go. But if a lot of this list is foreign to you (especially the first bullet), you might have a very hard time in this class. In that case, I'd highly recommend reading up on these concepts before class starts.
+
+Previous knowledge in Objective-C, Swift or iOS Development is **not** required.
+
 ### [Lectures & Topics](lectures)
 
 I've divided the lecture topics into lecture blocks. One lecture block may span multiple lectures. This way I can stay flexible in how many lectures I dedicate to one block.
