@@ -12,15 +12,18 @@ See important deadlines on the [exercises page](../exercises#important-deadlines
 
 ## Proposals
 
-For each freeform exercise, you first need to submit a proposal. The proposal should be a short document, for example in a Google Doc or simply in plain text via email.
+For each freeform exercise, you first need to submit a proposal. 
+
+- The proposal should be submitted in a Google Doc.
+- Please send me an **editable** link to your Google Doc via email (you have to enable editing in the share dialog of the document). This is so I can suggest changes and leave comments in the document
 
 The proposal should contain a textual description that describes in detail what your new app or feature will do.
 
-Also, include very simple wireframes. If you don't know what wireframes are, please read up on it [here](https://balsamiq.com/learn/articles/what-are-wireframes/). They don't need to have any graphical fidelity at all, but it's important that the navigation and user interaction is clear. I'm looking for mid-fidelity wireframes as described in [this article](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/). You can either use a digital tool to create the wireframes, or simply use pen and paper. If you use a digital tool, I highly recommend [Figma](https://www.figma.com/).
+Also, include simple wireframes. If you don't know what wireframes are, please read up on it [here](https://balsamiq.com/learn/articles/what-are-wireframes/). They don't need to have any graphical fidelity at all, but it's important that the navigation and user interaction is clear. I'm looking for mid-fidelity wireframes as described in [this article](https://careerfoundry.com/en/blog/ux-design/what-is-a-wireframe-guide/). You can either use a digital tool to create the wireframes, or simply use pen and paper. If you use a digital tool, I highly recommend [Figma](https://www.figma.com/).
 
 **Rules for the proposal wireframes**
 
-- Every single interaction (button/interactive element) should be visible, and it should be clear what they do
+- **Every single interaction** (button/interactive element) should be visible, and it should be clear what they do
 - The flow of the application (how do I get from screen to screen?) should be clear
 - [iOS interface guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) should be followed
 

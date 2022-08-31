@@ -26,23 +26,23 @@ You can find all the details on the freeform exercises [here](freeform).
 
 ### Fixed exercises
 
-- [Swift Exercise](swift-exercise) (Deadline Wednesday, 15 September 2021, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/_wv1YMe_))
-- [Login Exercise](login-screen-exercise) (Deadline Wednesday, 6 October 2021, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/rwX3mPUX))
-- [REST Exercise](rest-exercise) (Deadline Wednesday, 10 November 2021, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/RNDgzVJr))
-- [TableView Exercise](tableview-exercise) (Deadline Wednesday, 15 December 2021, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/yvkd-vER)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
+- [Swift Exercise](swift-exercise) (Deadline Wednesday, 21 September 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/4S-1sefD))
+- [Login Exercise](login-screen-exercise) (Deadline Wednesday, 19 October 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/PmWzOPls))
+- [REST Exercise](rest-exercise) (Deadline Wednesday, 9 November 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/0y4ulFHw))
+- [TableView Exercise](tableview-exercise) (Deadline Monday, 12 December 2022, 23:55. [GitHub Classroom Link](https://classroom.github.com/a/CFwRhnu0)) **Important:** This exercise is significantly longer than the other ones, so plan your time accordingly.
 
 ### Freeform exercises proposals (see [here](freeform#proposals))
 
-- Please submit all [proposals](freeform#proposals) until **Wednesday, 24 November 2021 23:55**
-- Please submit your reviewed, updated and final proposals until **Wednesday, 8 December 2021 23:55**
+- Please submit all [proposals](freeform#proposals) until **Wednesday, 30 November 2022 23:55**
+- Please submit your reviewed, updated and final proposals until **Monday, 12 December 2022 23:55**
 
 ### Freeform exercises
 
 There are two deadlines for freeform exercise submissions:
 
-- Please submit your first batch of freeform exercises until **Wednesday, 12 January 2022 23:55**
-- Please submit your second and final batch of freeform exercises until **Wednesday, 26 January 2022 23:55**
-- [Github Classroom Link for both](https://classroom.github.com/a/oRrkmt1y)
+- Please submit your first batch of freeform exercises until **Monday, 9 January 2023 23:55**
+- Please submit your second and final batch of freeform exercises until **Monday, 16 January 2023 23:55**
+- [Github Classroom Link for both](https://classroom.github.com/a/Ix2LyzF3)
 
 Since the number and scope of freeform exercises isn't fixed, what exactly you'll have to submit will be a bit different for each student. If you’re working on a single, bigger exercise, I’d like you to have at least one major aspect or feature of your app finished. This can be either a vertical slice (for example, one screen/feature is completely finished, including UI, networking, persistence), or a horizontal slice (for example, you haven’t written a single bit of UI code, but your entire networking and persistence infrastructure is finished). Both is fine. When writing the proposals, please keep the deadlines in mind and try to get a rough plan of when you're going to submit which features.
 
